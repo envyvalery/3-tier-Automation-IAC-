@@ -14,7 +14,7 @@ This project includes terraform scripts that automate the deployment of this app
 - The DNS name is also printed as output to your screen after you finish running `terraform apply`.
 - Paste this DNS name into a web browser to access your appplication.
 
-[Here]https://github.com/envyvalery/Three-tier-Architecture-On-AWS is a guide for you if you wish to manually deploy this application.
+here https://github.com/envyvalery/Three-tier-Architecture-On-AWS is a guide for you if you wish to manually deploy this application.
 
 You can also choose to deploy this application using a CI/CD pipeline, specifically AWS CodePipeline.
 [Here](https://dev.to/kelvinskell/devops-on-aws-codepipeline-in-action-60k) is an amazing resource I put up to guide on to deploy this application in a CI/CD pipeline using the blue/green deployment.
