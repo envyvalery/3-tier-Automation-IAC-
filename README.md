@@ -17,7 +17,7 @@ This project includes terraform scripts that automate the deployment of this app
 here https://github.com/envyvalery/Three-tier-Architecture-On-AWS is a guide for you if you wish to manually deploy this application.
 
 You can also choose to deploy this application using a CI/CD pipeline, specifically AWS CodePipeline.
-[Here](https://dev.to/kelvinskell/devops-on-aws-codepipeline-in-action-60k) is an amazing resource I put up to guide on to deploy this application in a CI/CD pipeline using the blue/green deployment.
+[Here](https://dev.to/kelvinskell/devops-on-aws-codepipeline-in-action-60k) is an amazing resource  to guide on to deploy this application in a CI/CD pipeline using the blue/green deployment.
 
 
 ### Happy Clouding!!!
